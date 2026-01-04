@@ -16,11 +16,7 @@ O script original:
   * **Parar**
   * **Sair**
 
-Vamos manter **exactamente a mesma lógica**, apenas trocando:
-
-* `tkinter` ➜ **PyQt**
-* Melhor organização do código
-* Explicações claras
+* **PyQt**
 
 ---
 
