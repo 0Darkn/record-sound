@@ -5,7 +5,7 @@
 
 O script original:
 
-* Cria uma **janela GUI**
+* Cria uma **janela GUI** **PyQt**
 * Usa o **VLC via linha de comandos** para:
 
   * Gravar som do microfone
@@ -15,8 +15,6 @@ O script original:
   * **Gravar**
   * **Parar**
   * **Sair**
-
-* **PyQt**
 
 ---
 
