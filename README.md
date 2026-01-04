@@ -109,6 +109,3 @@ Posso acrescentar facilmente:
 ✅ Gravação ilimitada (sem tempo fixo)
 ✅ Logs num ficheiro `.log`
 ✅ Integração com **VLC Python bindings**
-
-
-E eu desenvolvo a próxima versão 🚀
