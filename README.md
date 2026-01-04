@@ -103,9 +103,9 @@ def closeEvent(self, event):
 
 Posso acrescentar facilmente:
 
-✅ Duração configurável (SpinBox)
-✅ Barra de progresso
-✅ Escolha do dispositivo de áudio
-✅ Gravação ilimitada (sem tempo fixo)
-✅ Logs num ficheiro `.log`
-✅ Integração com **VLC Python bindings**
+- ✅ Duração configurável (SpinBox)
+- ✅ Barra de progresso
+- ✅ Escolha do dispositivo de áudio
+- ✅ Gravação ilimitada (sem tempo fixo)
+- ✅ Logs num ficheiro `.log`
+- ✅ Integração com **VLC Python bindings**
