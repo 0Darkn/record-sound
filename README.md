@@ -1,7 +1,7 @@
 
 ---
 
-## 1️⃣ O que o teu programa faz (resumo rápido)
+## 1️⃣ O que o programa faz (resumo rápido)
 
 O script original:
 
